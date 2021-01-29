@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/laptop_images"/>
+    <qresource prefix="/mobile_images"/>
+    <qresource prefix="/computer_courses"/>
+</RCC>
